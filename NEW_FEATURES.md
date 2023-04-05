@@ -2,7 +2,7 @@
 
 ## Полный список всех изменений, начиная с ES6:
 
-  - [Шаблонные строки](./src/ES6/);
+  - [Шаблонные строки](./src/ES6/templateStrings.js);
   - [let и const](./src/ES6/letConst.js);
   - [Параметры функций по умолчанию](./src/ES6/funcParams.js);
   - [Стрелочные функции](./src/ES6/arrowFunction.js);
