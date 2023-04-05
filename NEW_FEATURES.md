@@ -8,18 +8,19 @@
   - [Стрелочные функции](./src/ES6/arrowFunction.js);
   - [Расширенный синтаксис объектов](./src/ES6/extendedObject.js);
   - [Деструктурирование](./src/ES6/destructuring.js);
-    Spread-оператор
-    Rest-параметры
-    Объекты Map и Set
-    Symbol
-    Итераторы и генераторы
-    Promise
-    async/await
-    Модули
-    Прокси
-    Reflect
-    Цикл for...of
-    Массивы TypedArray
+  - [Spread-оператор](./src/ES6/spread.js);
+  - [Rest-параметры](./src/ES6/rest.js);
+  - [Объекты Map и Set](./src/ES6/mapAndSet.js)
+  - [Symbol](./src/ES6/symbol.js);
+  - [Итераторы](./src/ES6/iterators.js);
+  - [Генераторы](./src/ES6/generators.js);
+  - Promise
+  - async/await
+  - Модули
+  - [Прокси](./src/ES6/proxy.js);
+  - [Reflect](./src/ES6/reflect.js);
+  - Цикл for...of;
+  - [Массивы TypedArray](./src/ES6/typedArray.js);
     Интерполяция вычисляемых свойств
     Классы
     Наследование классов
