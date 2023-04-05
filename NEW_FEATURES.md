@@ -6,8 +6,8 @@
   - [let и const](./src/ES6/letConst.js);
   - [Параметры функций по умолчанию](./src/ES6/funcParams.js);
   - [Стрелочные функции](./src/ES6/arrowFunction.js);
-  - [Расширенный синтаксис объектов](./src/ES6/extendedObject.js)
-    Деструктурирование
+  - [Расширенный синтаксис объектов](./src/ES6/extendedObject.js);
+  - [Деструктурирование](./src/ES6/destructuring.js);
     Spread-оператор
     Rest-параметры
     Объекты Map и Set
