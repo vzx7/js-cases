@@ -21,19 +21,17 @@
   - [Reflect](./src/ES6/reflect.js);
   - Цикл for...of;
   - [Массивы TypedArray](./src/ES6/typedArray.js);
-    Интерполяция вычисляемых свойств
-    Классы
-    Наследование классов
-    super
-    Интерфейсы
-    Метод Object.assign()
-    Методы объекта
-    Строковые методы
-    Метод Array.prototype.includes()
-    Метод Array.prototype.find()
-    Метод Array.prototype.findIndex()
-    Двоичные и восьмеричные литералы
-    Юникод в регулярных выражениях
+  - Интерполяция вычисляемых свойств
+  - Классы
+  - [Наследование классов](./src/ES6/extends.md);
+  - [Интерфейсы (условный тип)](./src/ES6/interfaces.md);
+  - Метод Object.assign()
+  - Методы объекта
+  - Метод Array.prototype.includes()
+  - Метод Array.prototype.find()
+  - Метод Array.prototype.findIndex()
+  - [Двоичные и восьмеричные литералы](./src/ES6/binaryAndOctalLiterals.md);
+  - [Юникод в регулярных выражениях](./src/ES6/unicode.md);
     Функция String.raw()
     Функция Object.is()
     Функция Object.setPrototypeOf()
