@@ -41,3 +41,11 @@
 - [Сортировка Шелла (Shell sort)](./src/algorithm/sort/shelSort.md);
 - [Карманная сортировка (Bucket sort)](./src/algorithm/sort/bucketSort.md);
 - [Поразрядная сортировка (Radix sort)](./src/algorithm/sort/radixSort.md);
+
+
+## Пересечение массивов
+
+- [С использованием хеш-таблицы](./src/algorithm/intersection/map.md);
+- [Два указателя](./src/algorithm/intersection/twoPointers.md);
+- [Двухиндексный проход](./src/algorithm/intersection/twoIndex.md);
+- [Использование битовых множеств](./src/algorithm/intersection/bitSets.md);
