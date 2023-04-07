@@ -33,11 +33,11 @@
 ## Сортировка
 
 - [Сортировка пузырьком (Bubble sort)](./src/algorithm/sort/bubbleSort.md);
-- Сортировка выбором (Selection sort);
-- Сортировка вставками (Insertion sort);
-- Сортировка слиянием (Merge sort);
-- Быстрая сортировка (Quick sort);
-- Сортировка подсчетом (Counting sort);
-- Сортировка Шелла (Shell sort);
-- Карманная сортировка (Bucket sort);
-- Поразрядная сортировка (Radix sort);
+- [Сортировка выбором (Selection sort)](./src/algorithm/sort/selectionSort.md);
+- [Сортировка вставками (Insertion sort)](./src/algorithm/sort/insertionSort.md);
+- [Сортировка слиянием (Merge sort)](./src/algorithm/sort/mergeSort.md);
+- [Быстрая сортировка (Quick sort)](./src/algorithm/sort/quickSort.md);
+- [Сортировка подсчетом (Counting sort)](./src/algorithm/sort/countingSort.md);
+- [Сортировка Шелла (Shell sort)](./src/algorithm/sort/shelSort.md);
+- [Карманная сортировка (Bucket sort)](./src/algorithm/sort/bucketSort.md);
+- [Поразрядная сортировка (Radix sort)](./src/algorithm/sort/radixSort.md);
