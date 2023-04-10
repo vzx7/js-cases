@@ -49,3 +49,15 @@
 - [Два указателя](./src/algorithm/intersection/twoPointers.md);
 - [Двухиндексный проход](./src/algorithm/intersection/twoIndex.md);
 - [Использование битовых множеств](./src/algorithm/intersection/bitSets.md);
+
+## Поиск
+
+- [Линейный поиск](./src/algorithm/search/linearSearch.md);
+- [Бинарный поиск](./src/algorithm/search/binarySearch.md);
+- [Встроенные методы поиска подстроки](./src/algorithm/search/nativSearch.md);
+- [Алгоритм Кнута-Морриса-Пратта (KMP)](./src/algorithm/search/KMPSearch.md);
+- [Алгоритм Бойера-Мура (Boyer-Moore)](./src/algorithm/search/boyerMooreSearch.md);
+
+## Оптимизация
+
+- Алгоритмы оптимизации;
